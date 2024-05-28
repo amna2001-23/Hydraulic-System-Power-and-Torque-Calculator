@@ -2,7 +2,7 @@
 
 This is a Streamlit application to calculate the power and torque of a hydraulic system. The user can input parameters such as load, speed, maximum pressure, and RPM to calculate and display the results.
 
-![Hydraulic Circuit Diagram](hydraulic_diagram.png)
+
 
 ## Features
 
