@@ -14,7 +14,7 @@ def calculate_power_torque(load, speed, max_pressure, rpm):
 # Streamlit app layout
 
 st.title("Hydraulic System Power and Torque Calculator")
-st.image("img/unnamed.jpg", caption="Hydraulic Circuit Diagram", use_column_width=True,)
+st.image("unnamed.jpg", caption="Hydraulic Circuit Diagram", use_column_width=True,)
 
 
 
